@@ -1,0 +1,14 @@
+# *
+User-agent: *
+Allow: /
+
+# Yeti
+User-agent: Yeti
+Allow: /
+
+# Host
+Host: https://knud1.com
+
+# Sitemaps
+Sitemap: https://knud1.com/sitemap.xml
+Sitemap: https://knud1.com/server-sitemap.xml

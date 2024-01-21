@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="548.827" height="422.674" viewBox="0 0 548.827 422.674">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path-5);
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path-6);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="사각형_153" data-name="사각형 153" class="cls-1" width="487.312" height="314.113"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="사각형_147" data-name="사각형 147" class="cls-1" width="51.116" height="262.588"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="사각형_150" data-name="사각형 150" class="cls-1" width="85.019" height="34.981"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect id="사각형_152" data-name="사각형 152" class="cls-1" width="93.652" height="34.981"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_173" data-name="그룹 173" transform="translate(0 117.891) rotate(-14)">
+    <g id="그룹_172" data-name="그룹 172" class="cls-2">
+      <g id="그룹_163" data-name="그룹 163">
+        <g id="그룹_162" data-name="그룹 162" class="cls-2">
+          <path id="패스_59" data-name="패스 59" class="cls-3" d="M64.877,0V52.122A18.648,18.648,0,0,1,61.069,63.38L0,134.586l40.616,31.036,61.069-71.207a70.045,70.045,0,0,0,14.309-42.292V0Z"/>
+        </g>
+      </g>
+      <g id="그룹_165" data-name="그룹 165" transform="translate(64.876 51.525)">
+        <g id="그룹_164" data-name="그룹 164" class="cls-4">
+          <image id="사각형_146" data-name="사각형 146" width="56.743" height="264.799" transform="translate(-2.729 -0.861)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAADECAYAAADpjbOpAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAKqADAAQAAAABAAAAxAAAAABgNv6PAAAEcUlEQVR4Ae3XUY7UMAwG4F3gCLxyDQ7IKbgOb1wKZumoDu2fcRM7ju1IRULTtGnz5XfSmX1/PB5v+7+vdJDx88sB9flwnOnwmWRGaCnxMS2CfjuedD5+CUMDQT3L3gWLgKpgHlAT2AzoFJgF1AWmgYbAeqApYBz0E17I1o54j6oyuKGq2C5uypzocVP/ygQ9wqpsI6GXMJR6QkUwT+gQbCbUFGYJnQobgbrCJNBQ2BU0FYyDLvPrid6nOJE0bQJ6/rmsmvwK0OfeyQh9uakzQF/CcH1EQLtgEVAVzANqApsBnQKzgLrANNAQWA80BYyDLvOj5P6uxxJq2xHfTCprZuhpU2eCnmAYeyT0EhYJFcE8oUOwmVBTmCV0KmwE6gqTQENhV9BUMA56/3rCZLTtyG8mkTk7tOybbNACw7ijoSwsGtoN46CzXk8Ie0dAb9u69AjrdTT7jUKnwVAuhbrBpNAwWAuaBsZBZ+16HE/dlq5R9UCjN97Q0QTx/qyJVps6C7SCZUm0CYuCimFe0GHYLKg5zAo6HaaFusN6oeEwDnr/KMFktO0s30xNP0HVfx02RzDqQNB0m2efXwmQoEbzNn9MCZCg5YT5UEYPvKF7kGWNjQZrnSjCzJYUQUcnTPebweiB9EnQaQPQQKOfy0H/7jPGNTYahNn9lCg9MO0SIGhaICVIUCo9nU/3SdBlEs0GrTZ11kSr4LJCqz1C0NmbqSplJWmcIGgVdeM+6eXh53tBpROr+hNUWvrhUlaSxgmCSksj7d9gtC9roe0nG/dYDipdo8Z5tR93J9rOSNbjTlSWV+nNvp+zJcq+nwnqtevZxEqmzAFB2Zkw92lPq8chqFWi6sRaMx+FIkydWC9UO4D2vparut5KFBOrHuB1gqBcMtx5L18Zh6BWm6k82PqAoGmS4yZI0GUSXQZ6l55bc9LzUWtU/H72giJMvNQIKr5RWLrh5xN0mV0vhWIphQHLu/cmirDhUkqpHDQchhMhKCaEbbzPvU1Q6RoNg6ZLEJNYLtFlSp8Fim+bsgKiS48wdq94Q7thJcr9YDZUDZsNNYNZQ6fBRqFuMCk0DNaCpoFxUHp/0Sf2C2/Pfj2ZTfCGmkW5Pyhrorip37JAEVZt6ihoE4ZLxwsqhkVBcVxx2ytRMQxvuKGYyGibEv0DD8LFD5f9mwTF9xa2/WUwIkGz/LkMvP/NDfrj3/8loOmRW65boriRtvNZ/pVNvUEzJVpge1JlU0dDWRiW1BvaDfOGqmHeUBxP3R7d9ZiYGtK6UbpGEVZ2ZWug0estaBgMJ9aCYv+w9grQn1s6K0CfVVwKmvlHSdkTWRPFt02aNYqw6v2cNdFScjrYoB5rFBOj8bs/ZyWKsKqU3cK9oxXUHIYT0ZYeYfhc83ZvoggbLqV0Jhw0HIYTodIjDPuFtzfoVkb3UkpnzpVe+pzp/an00wcaHSBzoqd9kynREwwrEJ3oEXe5oaOhGBzbnl36Y2IsoufCBv29d/zec0OjD8Iuy9l41unyB0R/3gVqr8e8AAAAAElFTkSuQmCC"/>
+        </g>
+      </g>
+      <g id="그룹_167" data-name="그룹 167">
+        <g id="그룹_166" data-name="그룹 166" class="cls-2">
+          <path id="패스_60" data-name="패스 60" class="cls-3" d="M191.819,182.41H114.734V110.82A34.736,34.736,0,0,1,149.47,76.084h77.985a6.467,6.467,0,0,0,6.467-6.466V41.448a6.467,6.467,0,0,0-6.467-6.466H118.62V0H234.167A34.737,34.737,0,0,1,268.9,34.736V76.33a34.737,34.737,0,0,1-34.737,34.736H156.183a6.467,6.467,0,0,0-6.467,6.467v29.9h42.1" transform="translate(40.274)"/>
+          <path id="패스_61" data-name="패스 61" class="cls-3" d="M368.684,127.661H354.308v34.982h7.663a6.468,6.468,0,0,1,6.467,6.466v29.579c0,3.572-2.9,4.584-6.467,4.584H280.449c-3.571,0-6.466-1.012-6.466-4.584V97.764a6.466,6.466,0,0,1,6.466-6.466H390.485V56.316H273.737A34.736,34.736,0,0,0,239,91.052V203.516a34.737,34.737,0,0,0,34.736,34.737h94.945a34.736,34.736,0,0,0,34.736-34.736V162.4a34.734,34.734,0,0,0-34.735-34.735" transform="translate(83.893 19.768)"/>
+        </g>
+      </g>
+      <g id="그룹_169" data-name="그룹 169" transform="translate(353.182 147.43)">
+        <g id="그룹_168" data-name="그룹 168" class="cls-5">
+          <image id="사각형_149" data-name="사각형 149" width="86.465" height="36.477" transform="translate(-0.566 -0.843)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAbCAYAAADMIInqAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAQKADAAQAAAABAAAAGwAAAAAqWp5QAAAAkUlEQVRYCe2SSwrAIBBD7X/Z+5926kALIq2rtwlNYVCrhJC8KSLOUso6mK3e5eSbZ/+17vebt7X9l/vRHN19e879Ugf5ZkRFWMQBCJeHWDcBSIzCIiZAuDzEuglAYhQWMQHC5SHWTQASo7CICRAuD7FuApAYhUVMgHB5iHUTgMQoLGIChMtDrJsAJEZhkd8TcAGW6AQyQNHw/wAAAABJRU5ErkJggg=="/>
+        </g>
+      </g>
+      <g id="그룹_171" data-name="그룹 171" transform="translate(232.093 147.43)">
+        <g id="그룹_170" data-name="그룹 170" class="cls-6">
+          <image id="사각형_151" data-name="사각형 151" width="95.922" height="36.477" transform="translate(-1.069 -0.843)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEcAAAAbCAYAAAAu/JKTAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAR6ADAAQAAAABAAAAGwAAAAAKyOIbAAAAk0lEQVRYCe3SwQqAIBBF0er/v7jSmgEHWujdtbuCOPmkxeHtT6ztn9Xjt+dkX+OuznxT8/ekOTPa98jrzLc513fNs7ONd+2IwbUQEGcBk9fiiAMCENkccUAAIpsjDghAZHPEAQGIbI44IACRzREHBCCyOeKAAEQ2RxwQgMjmiAMCENkccUAAIpsjDghAZHPEAQGIXvbkNESDo+75AAAAAElFTkSuQmCC"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
